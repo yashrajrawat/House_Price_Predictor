@@ -5,4 +5,4 @@ Since this is a problem of PREDICTION ANALYSIS we will use MULTIPLE REGRESSION A
 MULTIPLE REGRESSION: Multiple regression is an extension of simple linear regression. It is used when we want to predict the value of an dependent variable based on the value of two or more other independent variables. The variable we want to predict is called the dependent variable (or sometimes, the outcome, target or criterion variable).
 The Bengaluru house data csv file contains our complete dataset. This data is colleceted through surveys and by estimation of analysts. We have total 21640 historical data prices for houses in USA.
 
-##Libraries Used : NumPy   Pandas    Seaborn     Matplotlib    scikit-learn    Flask
+## Libraries Used : NumPy   Pandas    Seaborn     Matplotlib    scikit-learn    Flask
