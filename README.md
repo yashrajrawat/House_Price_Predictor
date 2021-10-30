@@ -6,3 +6,5 @@ MULTIPLE REGRESSION: Multiple regression is an extension of simple linear regres
 The Bengaluru house data csv file contains our complete dataset. This data is colleceted through surveys and by estimation of analysts. We have total 21640 historical data prices for houses in USA.
 
 ## Libraries Used : NumPy   Pandas    Seaborn     Matplotlib    scikit-learn    Flask
+
+![images](https://github.com/yashrajrawat/House_Price_Predictor/blob/main/Images/hpp2.PNG)
